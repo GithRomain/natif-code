@@ -3,7 +3,7 @@
 
 #include <opencv2/opencv.hpp>
 
-class my_openCv {
+class My_openCv {
 public:
     cv::Mat createMat(std::string path_to_an_image);
     void printImg(cv::Mat mat);

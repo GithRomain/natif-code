@@ -1,0 +1,3 @@
+/Users/romainpasquier/Dev/work/myOpenCv/natif-code/build/CMakeFiles/My_openCv.dir
+/Users/romainpasquier/Dev/work/myOpenCv/natif-code/build/CMakeFiles/edit_cache.dir
+/Users/romainpasquier/Dev/work/myOpenCv/natif-code/build/CMakeFiles/rebuild_cache.dir
